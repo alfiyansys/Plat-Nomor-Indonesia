@@ -1,91 +1,151 @@
-Kota,,,,,,,Kode Huruf Depan
-Banten,,,,,,,A
-Cilegon,,,,,,,A
-Serang,,,,,,,A
-Pandeglang,,,,,,,A
-Jakarta,,,,,,,B
-Depok,,,,,,,B
-Tangerang,,,,,,,B
-Bekasi,,,,,,,B
-Bandung,,,,,,,D
-Cirebon,,,,,,,E
-Majalengka,,,,,,,E
-Indramayu,,,,,,,E
-Kuningan,,,,,,,E
-Bogor,,,,,,,F
-Cianjur,,,,,,,F
-Sukabumi,,,,,,,F
-Pekalongan,,,,,,,G
-Pemalang,,,,,,,G
-Batang,,,,,,,G
-Tegal,,,,,,,G
-Brebes,,,,,,,G
-Semarang,,,,,,,H
-Kendal,,,,,,,H
-Salatiga,,,,,,,H
-Demak,,,,,,,H
-Pati,,,,,,,K
-Jepara,,,,,,,K
-Kudus,,,,,,,K
-Blora,,,,,,,K
-Rembang,,,,,,,K
-Grobogan,,,,,,,K
-Surabaya,,,,,,,L
-Madura,,,,,,,M
-Malang,,,,,,,N
-Pasuruan,,,,,,,N
-Probolinggo,,,,,,,N
-Lumajang,,,,,,,N
-Bondowoso,,,,,,,P
-Jember ,,,,,,,P
-Situbondo,,,,,,,P
-Banyuwangi,,,,,,,P
-Banyumas,,,,,,,R
-Purbalingga,,,,,,,R
-Cilacap,,,,,,,R
-Banjarnegara,,,,,,,R
-Bojonegoro,,,,,,,S
-Tuban,,,,,,,S
-Mojokerto,,,,,,,S
-Lamongan,,,,,,,S
-Jombang,,,,,,,S
-Purwakarta,,,,,,,T
-Karawang,,,,,,,T
-Subang,,,,,,,T
-Gresik,,,,,,,W
-Sidoarjo,,,,,,,W
-Garut,,,,,,,Z
-Sumedang,,,,,,,Z
-Tasikmalaya,,,,,,,Z
-Pangandaran,,,,,,,Z
-Ciamis,,,,,,,Z
-Banjar,,,,,,,Z
-Magelang,Purwerejo,Temanggung,Kebumen,Wonosobo,,,AA
-DI Yogyakarta,,,,,,,AB
-Surakarta,Sukoharjo,Boyolali,Klaten,Karanganyar,Sragen,Wonogiri,AD
-Madiun,Ngawi,Ponorogo,Magetan,Pacitan,,,AE
-Kediri,Blitar,Nganjuk,Tulungagung,Trenggalek,,,AG
-Pulau Timor,Kupang,,,,,,DH
-Bali,,,,,,,DK
-Pulau Lombok,Mataram,,,,,,DR
-Pulau Sumbawa,,,,,,,EA
-Pulau Flores,,,,,,,EB
-Pulau Sumba,,,,,,,ED
-Banjarmasin,,,,,,,DA
-Singkawang,Pontianak,,,,,,KB
-Palangkaraya,Kotawaringin,Barito,,,,,KH
-Balikpapan,Kutai Kartanegara,Samarinda,Bontang,Kutai,,,KT
-Kalimantan Utara,,,,,,,KU
-Manado,Bolaang Mongondow,Minahasa,Bitung,,,,DB
-Mamuju,Polewali Mandar,Majene,,,,,DC
-Makassar,Takalar,Giwa,Bantaeng,,,,DD
-Sahinge,Sitaro,Talaud,,,,,DL
-Gorontalo,Bone Bolango,,,,,,DM
-Donggala,Palu,Poso,,,,,DN
-Parepare,Palopo,Pinrang,Luwu,,,,DP
-Kolaka,Konawe,Wakatobi,Buton,Kendari,Konawe,,DT
-Bone,Soppeng,Wajo,Sinjai,,,,DW
-Maluku,Seran,Ambon,Tual,,,,DE
-Ternate,Halmahera,Tidore,Murotai,,,,DG
-Jayapura,Merauke,Mimika,Paniai,,,,PA
-Papua Barat,,,,,,,PB
+Kota,Kode Huruf Depan
+Banten,A
+Cilegon,A
+Serang,A
+Pandeglang,A
+Jakarta,B
+Depok,B
+Tangerang,B
+Bekasi,B
+Bandung,D
+Cirebon,E
+Majalengka,E
+Indramayu,E
+Kuningan,E
+Bogor,F
+Cianjur,F
+Sukabumi,F
+Pekalongan,G
+Pemalang,G
+Batang,G
+Tegal,G
+Brebes,G
+Semarang,H
+Kendal,H
+Salatiga,H
+Demak,H
+Pati,K
+Jepara,K
+Kudus,K
+Blora,K
+Rembang,K
+Grobogan,K
+Surabaya,L
+Madura,M
+Malang,N
+Pasuruan,N
+Probolinggo,N
+Lumajang,N
+Bondowoso,P
+Jember ,P
+Situbondo,P
+Banyuwangi,P
+Banyumas,R
+Purbalingga,R
+Cilacap,R
+Banjarnegara,R
+Bojonegoro,S
+Tuban,S
+Mojokerto,S
+Lamongan,S
+Jombang,S
+Purwakarta,T
+Karawang,T
+Subang,T
+Gresik,W
+Sidoarjo,W
+Garut,Z
+Sumedang,Z
+Tasikmalaya,Z
+Pangandaran,Z
+Ciamis,Z
+Banjar,Z
+Magelang,AA
+Purwerejo,AA
+Temanggung,AA
+Kebumen,AA
+Wonosobo,AA
+DI Yogyakarta,AB
+Surakarta,AD
+Sukoharjo,AD
+Boyolali,AD
+Klaten,AD
+Karanganyar,AD
+Sragen,AD
+Wonogiri,AD
+Madiun,AE
+Ngawi,AE
+Ponorogo,AE
+Magetan,AE
+Pacitan,AE
+Kediri,AG
+Blitar,AG
+Nganjuk,AG
+Tulungagung,AG
+Trenggalek,AG
+Pulau Timor,DH
+Kupang,DH
+Bali,DK
+Pulau Lombok,DR
+Mataram,DR
+Pulau Sumbawa,EA
+Pulau Flores,EB
+Pulau Sumba,ED
+Banjarmasin,DA
+Singkawang,KB
+Pontianak,KB
+Palangkaraya,KH
+Kotawaringin,KH
+Barito,KH
+Balikpapan,KT
+Kutai Kartanegara,KT
+Samarinda,KT
+Bontang,KT
+Kutai,KT
+Kalimantan Utara,KU
+Manado,DB
+Bolaang Mongondow,DB
+Minahasa,DB
+Bitung,DB
+Mamuju,DC
+Polewali Mandar,DC
+Majene,DC
+Makassar,DD
+Takalar,DD
+Giwa,DD
+Bantaeng,DD
+Sahinge,DL
+Sitaro,DL
+Talaud,DL
+Gorontalo,DM
+Bone Bolango,DM
+Donggala,DN
+Palu,DN
+Poso,DN
+Parepare,DP
+Palopo,DP
+Pinrang,DP
+Luwu,DP
+Kolaka,DT
+Konawe,DT
+Wakatobi,DT
+Buton,DT
+Kendari,DT
+Konawe,DT
+Bone,DW
+Soppeng,DW
+Wajo,DW
+Sinjai,DW
+Maluku,DE
+Seran,DE
+Ambon,DE
+Tual,DE
+Ternate,DG
+Halmahera,DG
+Tidore,DG
+Murotai,DG
+Jayapura,PA
+Mimika,PA
+Merauke,PA
+Paniai,PA
+Papua Barat,PB
