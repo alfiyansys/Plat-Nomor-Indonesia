@@ -4,4 +4,8 @@ Data meliputi:
  - Kode Depan
  - Kode Belakang
 ---
+### How to contribute
+ - Gunakan Google Spreadsheets
+ - Import-export csv
+---
 [Contributors](https://github.com/alfiyansys/Plat-Nomor-Indonesia/graphs/contributors)
