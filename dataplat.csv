@@ -1,47 +1,47 @@
-KODE HURUF;NAMA KOTA
-A;BANTEN,Cilegon, SERANG, Pandeglang
-B;Jakarta, Depok, Tangerang, Bekasi
-D;Bandung
-E;Cirebon, Majalengka, Indramayu, Kuningan
-F;Bogor, Cianjur, Sukabumi
-G;Pekalongan, Pemalang, Batang,Tegal, Brebes
-H;Semarang, Kendal, Salatiga, Demak
-K;Pati, Jepara, Kudus, Blora, Rembang, Grobogan
-L;Surabaya
-M;Madura
-N;Malang, Pasuruan, Probolinggo, Lumajang
-P;Bondowoso,, Jember Situbondo, Banyuwangi
-R;Banyumas, Purbalingga, Cilacap, Banjarnegara
-S;Bojonegoro, Tuban, Mojokerto, Lamongan, Jombang
-T; Purwakarta,Karawang, Subang
-W;Gresik, Sidoarjo
-Z;Garut,Sumedang, Tasikmalaya, Pangandaran, Ciamis, Banjar
-AA;Magelang, Purwerejo, Temanggung, Kebumen, Wonosobo
-AB;DI Yogyakarta
-AD;Surakarta, Sukoharjo, Boyolali, Klaten, Karanganyar, Sragen, Wonogiri
-AE;Madiun, Ngawi, Ponorogo, Magetan, Pacitan
-AG;Kediri, Blitar, Nganjuk, Tulungagung, Trenggalek
-DH;Pulau Timor, Kupang
-DK;Bali
-DR;Pulau Lombok, Mataram
-EA;Pulau Sumbawa
-EB;Pulau Flores
-ED;Pulau Sumba
-DA;Banjarmasin
-KB;Singkawang, Pontianak
-KH;Palangkaraya, Kotawaringin, Barito
-KT;Balikpapan, Kutai Kartanegara, Samarinda, Bontang, Kutai
-KU;Kalimantan Utara
-DB;Manado, Bolaang Mongondow, Minahasa, Bitung
-DC;Mamuju, Polewali Mandar, Majene
-DD;Makassar, Takalar, Giwa, Bantaeng
-DL;Sahinge, Sitaro, Talaud
-DM;Gorontalo, Bone Bolango
-DN;Donggala, Palu, Poso
-DP;Parepare, Palopo, Pinrang, Luwu
-DT;Kolaka, Konawe, Wakatobi, Buton, Kendari, Konawe
-DW;Bone, Soppeng, Wajo, Sinjai
-DE;Maluku, Seran, Ambon, Tual
-DG;Ternate, Halmahera, Tidore, Murotai
-PA;Jayapura, Merauke, Mimika, Paniai
-PB;Papua Barat
+KODE HURUF, NAMA KOTA
+A, BANTEN,Cilegon, SERANG, Pandeglang
+B, Jakarta, Depok, Tangerang, Bekasi
+D, Bandung
+E, Cirebon, Majalengka, Indramayu, Kuningan
+F, Bogor, Cianjur, Sukabumi
+G, Pekalongan, Pemalang, Batang,Tegal, Brebes
+H, Semarang, Kendal, Salatiga, Demak
+K, Pati, Jepara, Kudus, Blora, Rembang, Grobogan
+L, Surabaya
+M, Madura
+N, Malang, Pasuruan, Probolinggo, Lumajang
+P, Bondowoso,, Jember Situbondo, Banyuwangi
+R, Banyumas, Purbalingga, Cilacap, Banjarnegara
+S, Bojonegoro, Tuban, Mojokerto, Lamongan, Jombang
+T,  Purwakarta,Karawang, Subang
+W, Gresik, Sidoarjo
+Z, Garut,Sumedang, Tasikmalaya, Pangandaran, Ciamis, Banjar
+AA, Magelang, Purwerejo, Temanggung, Kebumen, Wonosobo
+AB, DI Yogyakarta
+AD, Surakarta, Sukoharjo, Boyolali, Klaten, Karanganyar, Sragen, Wonogiri
+AE, Madiun, Ngawi, Ponorogo, Magetan, Pacitan
+AG, Kediri, Blitar, Nganjuk, Tulungagung, Trenggalek
+DH, Pulau Timor, Kupang
+DK, Bali
+DR, Pulau Lombok, Mataram
+EA, Pulau Sumbawa
+EB, Pulau Flores
+ED, Pulau Sumba
+DA, Banjarmasin
+KB, Singkawang, Pontianak
+KH, Palangkaraya, Kotawaringin, Barito
+KT, Balikpapan, Kutai Kartanegara, Samarinda, Bontang, Kutai
+KU, Kalimantan Utara
+DB, Manado, Bolaang Mongondow, Minahasa, Bitung
+DC, Mamuju, Polewali Mandar, Majene
+DD, Makassar, Takalar, Giwa, Bantaeng
+DL, Sahinge, Sitaro, Talaud
+DM, Gorontalo, Bone Bolango
+DN, Donggala, Palu, Poso
+DP, Parepare, Palopo, Pinrang, Luwu
+DT, Kolaka, Konawe, Wakatobi, Buton, Kendari, Konawe
+DW, Bone, Soppeng, Wajo, Sinjai
+DE, Maluku, Seran, Ambon, Tual
+DG, Ternate, Halmahera, Tidore, Murotai
+PA, Jayapura, Merauke, Mimika, Paniai
+PB, Papua Barat
