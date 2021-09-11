@@ -44,10 +44,10 @@ Banyumas,R,
 Purbalingga,R,
 Cilacap,R,
 Banjarnegara,R,
-Bojonegoro,S,
-Tuban,S,
+Bojonegoro,S,"A**,B*,C*,D*"
+Tuban,S,"E*,F*,G*,H*,I*"
 Mojokerto,S,
-Lamongan,S,
+Lamongan,S,"J**,K*,L*,M*"
 Jombang,S,
 Purwakarta,T,
 Karawang,T,
